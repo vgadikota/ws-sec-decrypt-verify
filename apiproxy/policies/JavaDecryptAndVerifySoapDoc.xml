@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JavaCallout async="false" continueOnError="false" enabled="true" name="JavaDecryptAndVerifySoapDoc">
+    <DisplayName>Java.DecryptAndVerifySoapDoc</DisplayName>
+    <Properties/>
+    <ClassName>demo.wssec.common.DecryptAndVerify</ClassName>
+    <ResourceURL>java://ws-sec-decrypt-verify.jar</ResourceURL>
+</JavaCallout>
